@@ -1,3 +1,5 @@
-👋 Hi, I’m @eliotaxor
+Hi, 
 
-This is an alt account where i will be testing a bunch of stuff somewhat anonymously.
+My name is Eliot and I'm trying to make a blog website hosted on GitHub Pages :)
+
+
